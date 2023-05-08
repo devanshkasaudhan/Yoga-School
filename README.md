@@ -7,6 +7,14 @@ Welcome to the Future Ready Talent Internship Program project documentation. In 
 
 The goal of this project is to deploy a Yoga School Website on Azure Portal using GitHub as our version control system. Azure is a cloud computing platform that allows us to host and deploy our website on the internet. GitHub is a web-based platform for version control and collaboration that enables developers to store and manage their code repositories. We will use GitHub to store and manage the code for our website and then deploy it on Azure.
 
+
+## Deployment
+
+This project is deployed on github pages and azure static web app
+
+- [Github pages Deployment](https://github.com/devanshkasaudhan/Yoga-School)
+- [Azure Static web App Deployment](https://polite-desert-015a17910.3.azurestaticapps.net)
+
 ## Prerequisites
 
 Before starting the deployment process, make sure that you have the following:
@@ -81,11 +89,5 @@ The final step is to deploy the website on Azure. To do this, follow these steps
 - [@devanshkasaudhan](https://github.com/devanshkasaudhan/)
 
 
-## Deployment
-
-This project is deployed on github pages and azure static web app
-
-- [Github pages Deployment](https://github.com/devanshkasaudhan/Yoga-School)
-- [Azure Static web App Deployment](https://polite-desert-015a17910.3.azurestaticapps.net)
 
 
