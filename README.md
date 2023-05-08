@@ -78,7 +78,8 @@ The final step is to deploy the website on Azure. To do this, follow these steps
 7. Select "GitHub" as the source and connect to your GitHub repository.
 8. Select the branch you want to deploy and click on the "Continue" button.
 9. Configure the deployment options and click on the "Finish" button.
-10. Wait for
+10. Wait for deployment and then go to resource and copy link of deployment
+11. Run the link in browser.
 
 
 
