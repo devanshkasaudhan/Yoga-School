@@ -1,7 +1,7 @@
 
-# Future Ready Talent Internship Program - Yoga School Website Deployment
+# Yoga School Website Deployment
 
-Welcome to the Future Ready Talent Internship Program project documentation. In this project, we have deployed a Yoga School Website on Azure Portal using GitHub as our version control system. We have also added a GitHub page to the project. This documentation will guide you through the process of deploying the website on Azure and adding the GitHub page.
+In this project, we have deployed a Yoga School Website on Azure Portal using GitHub as our version control system. We have also added a GitHub page to the project. This documentation will guide you through the process of deploying the website on Azure and adding the GitHub page.
 
 ## Project Overview
 
